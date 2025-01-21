@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/api/db"
+  from = "/api/db/data"
   to = "/db.json"
   status = 200
   force = true
