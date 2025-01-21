@@ -122,17 +122,6 @@
       "Environment": "IO"
     },
     {
-      "id": "9f2c2c68-8831-47b6-b048-1cb9295ba30e",
-      "ApplicationName": "Quality App",
-      "OS": "Linux",
-      "SwaggerURL": "https://swagger.app1.dev",
-      "FTPPath": "/ftp/app1/dev",
-      "FTPLogPath": "/ftp/app1/dev/logs",
-      "DBName": "App5_DB",
-      "FTPMonitorPath": "/ftp/app3/dev/monitorgggg",
-      "Environment": "DEV"
-    },
-    {
       "id": "bce3a7a7-4739-4032-8cea-e9c395e0a802",
       "ApplicationName": "Product Development",
       "OS": "Linux",
