@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server_json": "json-server --watch db.json --port 3001"
+    "server_json": "json-server --watch public/db.json --port 3001"
   },
   "dependencies": {
     "react": "^18.3.1",
